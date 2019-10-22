@@ -6,5 +6,6 @@ namespace Info2
     {
         public string Nome { get; set; }
         public string ChaveProduto { get; set; }
+        public DateTime Data { get; set; }
     }
 }

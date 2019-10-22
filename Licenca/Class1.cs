@@ -6,6 +6,6 @@ namespace Licenca
     {
         public string TRIAL { get; set; }
         public string AVALIACAO { get; set; }
-        public string LIBERADO { get; set; }
+        public string LIBERADOa { get; set; }
     }
 }
